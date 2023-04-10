@@ -1,1 +1,1 @@
-# Sales-Analysis-Project_Power-BI_SQL
+# Sales-Analysis-Project_Power_BI_SQL
