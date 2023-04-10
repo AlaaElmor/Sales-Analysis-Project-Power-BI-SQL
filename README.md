@@ -7,9 +7,13 @@ This project also includes the SQL scripts used to query the data, as well as th
 
 # Features
 Interactive dashboard for sales analysis
+
 Filters for product, customer, and salesperson
+
 Charts and graphs to visualize trends and patterns
+
 SQL scripts for querying the data
+
 Power BI file for creating the dashboard
 
 # Usage
