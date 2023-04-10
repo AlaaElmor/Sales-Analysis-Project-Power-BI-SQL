@@ -16,9 +16,13 @@ Power BI file for creating the dashboard
 To use this project, you will need to have SQL Server and Power BI Desktop installed on your computer.
 
 1-Clone the repository to your local machine.
+
 2-Run the SQL scripts to create the necessary tables and load the data.
+
 3-Open the Power BI file to create the dashboard.
+
 4-Connect the dashboard to your SQL Server database.
+
 5-Customize the dashboard to your needs.
 
 ![sales](https://user-images.githubusercontent.com/77681678/230838309-844366f1-286c-40d3-9ac9-9caa50261542.jpg)
